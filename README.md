@@ -2,6 +2,9 @@
 From this repository, you can download the source code for an MATLAB App, which simulates travelling waves on electrical transmission lines.
 Developed with MATLAB R2022a Update 2
 
+# Problems?
+Contact me: schuetzhoff.dhbw@gmail.com
+
 # Installation:
 - Download .zip-File
 - Unzip in any location
